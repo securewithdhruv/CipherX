@@ -12,15 +12,25 @@ Copyright Notice: Displays a footer with "© 2025 CipherX. All rights reserved."
 Project Structure
 cipherx-web/
 ├── pages/
+
 │   ├── index.js              # Main page with UI and cryptographic logic
+
 │   ├── _app.js              # Custom App component for global CSS
+
 ├── styles/
+
 │   ├── globals.css          # Tailwind CSS configuration
+
 ├── package.json             # Project metadata and dependencies
+
 ├── tailwind.config.js       # Tailwind CSS configuration
+
 ├── postcss.config.js        # PostCSS configuration for Tailwind
+
 ├── public/                  # Static assets (e.g., favicon.ico)
+
 ├── README.md                # Project documentation
+
 └── .gitignore               # Git ignore file
 
 Prerequisites
@@ -114,3 +124,4 @@ postcss: ^8.4.21 (CSS processor)
 
 License
 © 2025 CipherX. All rights reserved.
+
